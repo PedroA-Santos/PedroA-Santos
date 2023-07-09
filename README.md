@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PedroA-Santos
 - 👀 I’m interested in become a developer
 - 🌱 I’m currently learning Technology in systems analysis and development
-- 💞️ I’m looking to collaborate on ..to the word
+- 💞️ I’m looking to collaborate on to the word
 - 📫 How to reach me email: eupedroassuncao@gmail.com
 
 <!---
